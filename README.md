@@ -1,7 +1,7 @@
 # Olá, eu sou a Lara Moraes  👩‍💻
 
 🎓 Estudante de Ciência da Computação na UNICID (2º ano)  
-🚀 Apaixonada por tecnologia, programação e desafios  
+🚀 ApaixonadA por tecnologia, programação e desafios  
 📚 Atualmente estudando **Java**, **Banco de Dados (SQL)** e **Estrutura de Dados**  
 🎯 Buscando minha primeira oportunidade na área de TI  
 
