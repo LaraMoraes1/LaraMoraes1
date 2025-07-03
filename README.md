@@ -11,7 +11,7 @@
 - 💻 Lógica de Programação
 - 👩‍💻 Linguagens: `C`, `Java`, `Python`
 - 🗃️ Banco de Dados: `SQL`
-- 🔧 Ferramentas: `Git`, `GitHub`, `VSCode`, 'Power BI'
+- 🔧 Ferramentas: `Git`, `GitHub`, `VSCode`, `Power BI`
 
 
 
