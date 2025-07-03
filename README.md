@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação   
 🚀 Apaixonada por tecnologia, programação e desafios
-📚 Atualmente estudando **Java**, **Banco de Dados (SQL)** e **Estrutura de Dados**  
+📚 Atualmente estudando **Java**, **Banco de Dados (SQL)**  **Estrutura de Dados** e **Power BI**
 🎯 Buscando minha primeira oportunidade na área de TI  
 
 ---
@@ -11,7 +11,7 @@
 - 💻 Lógica de Programação
 - 👩‍💻 Linguagens: `C`, `Java`, `Python`
 - 🗃️ Banco de Dados: `SQL`
-- 🔧 Ferramentas: `Git`, `GitHub`, `VSCode`
+- 🔧 Ferramentas: `Git`, `GitHub`, `VSCode`, 'Power BI'
 
 
 
