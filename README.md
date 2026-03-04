@@ -1,15 +1,15 @@
-# Olá, eu sou a Lara Moraes  👩‍💻
+# Olá, eu sou a Lara Moraes  
 
  Estudante de Ciência da Computação   
  Atualmente estudando **Java**, **Banco de Dados (SQL)**  **Estrutura de Dados** e **Power BI**  
 
 ---
 
-### 🧠 Habilidades
-- 💻 Lógica de Programação
-- 👩‍💻 Linguagens: `C`, `Java`, `Python`
-- 🗃️ Banco de Dados: `SQL`
-- 🔧 Ferramentas: `Git`, `GitHub`, `VSCode`, `Power BI`
+###  Habilidades
+-  Lógica de Programação
+-  Linguagens: `C`, `Java`, `Python`
+-  Banco de Dados: `SQL`
+-  Ferramentas: `Git`, `GitHub`, `VSCode`, `Power BI`
 
 
 
